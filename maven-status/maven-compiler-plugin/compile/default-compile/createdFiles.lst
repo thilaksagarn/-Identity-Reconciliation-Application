@@ -1,0 +1,9 @@
+com\moonrider\identity\enums\LinkPrecedence.class
+com\moonrider\identity\controller\IdentityController.class
+com\moonrider\identity\IdentityApplication.class
+com\moonrider\identity\entity\Contact.class
+com\moonrider\identity\repository\ContactRepository.class
+com\moonrider\identity\exception\GlobalExceptionHandler.class
+com\moonrider\identity\service\IdentityService.class
+com\moonrider\identity\dto\ContactRequestDTO.class
+com\moonrider\identity\dto\ContactResponseDTO.class
